@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Default",
+    "isEditable": false
+  },
+  {
+    "id": 2,
+    "name": "Movie",
+    "isEditable": false
+  },
+  {
+    "id": 3,
+    "name": "Music",
+    "isEditable": false
+  },
+  {
+    "id": 4,
+    "name": "Game",
+    "isEditable": false
+  }
+]
