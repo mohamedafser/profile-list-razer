@@ -4,9 +4,9 @@ import { Provider } from "react-redux";
 import App from "./App";
 import store from "./store";
 
-import "./css/main.css";
-import "./css/profile.css";
-import "./css/tooltip.css";
+import "./assets/css/main.css";
+import "./assets/css/profile.css";
+import "./assets/css/tooltip.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

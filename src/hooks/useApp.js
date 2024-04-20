@@ -8,7 +8,6 @@ import {
   removeProfile,
   updateProfile,
 } from "../store/profileSlice";
-import datas from "../data.json";
 
 const useApp = () => {
   const targetRef = useRef(null);
